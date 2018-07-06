@@ -1,0 +1,10 @@
+You added an email to your account through the NewsAI platform. In order to confirm your email please follow the link below:
+
+https://{{ site.domain }}/api/v1/users/me/confirm-email/?code={{email_code.invite_code}}
+
+If you didn't add this email to your NewsAI account then please disregard this email.
+
+If you have any questions please feel free to reply to this email.
+
+Thanks,
+NewsAI Team
