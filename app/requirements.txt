@@ -108,7 +108,7 @@ python-http-client==3.0.0
 python-openid==2.2.5
 python-social-auth==0.3.6
 pytz==2017.2
-PyYAML==3.11
+PyYAML==5.4
 raven==6.2.1
 redis==2.10.6
 requests==2.18.4
