@@ -97,7 +97,7 @@ pyasn1-modules==0.1.5
 pycparser==2.18
 pycrypto==2.6.1
 pycryptodomex==3.4.7
-Pygments==2.2.0
+Pygments==2.7.4
 pyjwkest==1.4.0
 PyJWT==1.5.3
 PyNaCl==1.1.2
