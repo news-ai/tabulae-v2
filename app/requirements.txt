@@ -134,7 +134,7 @@ tqdm==4.19.4
 typing==3.6.2
 ujson==1.35
 uritemplate==3.0.0
-urllib3==1.22
+urllib3==1.26.5
 URLObject==2.4.3
 vine==1.1.4
 wrapt==1.10.11
