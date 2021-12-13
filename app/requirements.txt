@@ -76,7 +76,7 @@ Jinja2==2.9.6
 jmespath==0.9.3
 jsonfield==2.0.2
 kombu==4.1.0
-lxml==4.1.0
+lxml==4.6.5
 MarkupSafe==1.0
 msgpack-python==0.4.8
 ndg-httpsclient==0.4.3
