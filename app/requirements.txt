@@ -132,7 +132,7 @@ stripe==1.70.0
 tldextract==1.5.1
 tqdm==4.19.4
 typing==3.6.2
-ujson==1.35
+ujson==5.2.0
 uritemplate==3.0.0
 urllib3==1.22
 URLObject==2.4.3
